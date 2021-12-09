@@ -1,0 +1,37 @@
+.user-4 {
+  align-items: center;
+  display: flex;
+  height: 100px;
+  left: 1294px;
+  min-width: 244px;
+  position: absolute;
+  top: 109px;
+}
+
+.overlap-group-10 {
+  align-items: flex-start;
+  background-image: url(/static/img/profile-photo@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 100px;
+}
+
+.profile-photo {
+  background-color: var(--black-2);
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.popescu-ion {
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-height: 30px;
+  min-width: 122px;
+}
+
+.user-4.user-5 {
+  top: 120px;
+}
+

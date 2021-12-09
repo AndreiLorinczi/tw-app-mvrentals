@@ -1,0 +1,31 @@
+.facebook {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  min-width: 41px;
+  padding: 0.1px 2.2px;
+}
+
+.overlap-group-5 {
+  height: 39px;
+  position: relative;
+  width: 37px;
+}
+
+.bg {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.f {
+  height: 29px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 17px;
+}
+

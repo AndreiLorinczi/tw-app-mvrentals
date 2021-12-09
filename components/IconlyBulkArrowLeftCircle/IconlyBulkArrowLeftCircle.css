@@ -1,0 +1,22 @@
+.iconly-bulk-arrow-left-circle {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  min-width: 32px;
+}
+
+.iconly-bulk-arrow-left-circle-1 {
+  height: 33px;
+  margin-top: -0.64px;
+  width: 32px;
+}
+
+.iconly-bulk-arrow-left-circle.iconly-bulk-arrow-right-circle {
+  margin-left: 1257px;
+}
+
+.iconly-bulk-arrow-left-circle.iconly-bulk-arrow-right-circle .iconly-bulk-arrow-left-circle-1 {
+  width: 33px;
+}
+

@@ -1,0 +1,24 @@
+.menu-4 {
+  align-items: center;
+  background-image: url(/static/img/menu@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 902px;
+  padding: 20px 29px;
+  position: absolute;
+  top: 8px;
+  width: 287px;
+}
+
+.logo-5 {
+  align-self: flex-end;
+  height: 48px;
+  width: 224px;
+}
+
+.menu-4.menu-5 {
+  top: 19px;
+}
+

@@ -1,0 +1,31 @@
+.drop-down-inverted {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  overflow: hidden;
+  padding: 0 20px;
+  width: 304px;
+}
+
+.vid {
+  color: var(--black);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 4px;
+  min-height: 26px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.caret-1 {
+  height: 10px;
+  margin-bottom: 0;
+  margin-left: 172px;
+  width: 26px;
+}
+

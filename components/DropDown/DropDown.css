@@ -1,0 +1,27 @@
+.drop-down {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  margin-left: 16px;
+  overflow: hidden;
+  padding: 0 20.5px;
+  width: 304px;
+}
+
+.all-categories {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 4px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 228px;
+}
+
+.caret {
+  height: 10px;
+  margin-left: 6px;
+  margin-top: 0;
+  width: 25px;
+}
+

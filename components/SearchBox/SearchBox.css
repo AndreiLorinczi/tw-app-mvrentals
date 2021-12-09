@@ -1,0 +1,28 @@
+.search-box {
+  align-items: flex-start;
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  left: 346px;
+  overflow: hidden;
+  padding: 23.7px 23.7px;
+  position: absolute;
+  top: 33px;
+  width: 1065px;
+}
+
+.type-to-search-for-a-movie {
+  align-self: center;
+  color: var(--black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 10px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 560px;
+}
+
