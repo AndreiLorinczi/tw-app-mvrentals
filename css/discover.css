@@ -1,0 +1,673 @@
+/* screen - discover */
+
+.discover {
+  align-items: flex-start;
+  display: flex;
+  height: 919px;
+  min-width: 1721px;
+  overflow-x: hidden;
+}
+
+.discover .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(../img/bg@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 1080px;
+  margin-left: -99px;
+  margin-top: -61px;
+  min-width: 1920px;
+  padding: 80px 95px;
+}
+
+.discover .overlap-group8 {
+  height: 902px;
+  position: relative;
+  width: 287px;
+}
+
+.discover .overlap-group1 {
+  height: 902px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 287px;
+}
+
+.discover .menu {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 902px;
+  position: absolute;
+  top: 0;
+  width: 287px;
+}
+
+.discover .union {
+  height: 1px;
+  margin-left: -0.25px;
+  width: 1px;
+}
+
+.discover .overlap-group {
+  height: 923px;
+  margin-top: 9px;
+  position: relative;
+  width: 1725px;
+}
+
+.discover .menu-1 {
+  height: 902px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 287px;
+}
+
+.discover .group-286 {
+  align-items: center;
+  display: flex;
+  height: 35px;
+  left: 72px;
+  min-width: 145px;
+  position: absolute;
+  top: 313px;
+}
+
+.discover .iconly-light-ticket {
+  height: 35px;
+  width: 35px;
+}
+
+.discover .tickets {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.discover .union-1 {
+  height: 923px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 1701px;
+}
+
+.discover .group-285 {
+  align-items: center;
+  display: flex;
+  height: 37px;
+  left: 69px;
+  min-width: 148px;
+  position: absolute;
+  top: 386px;
+}
+
+.discover .compass-1 {
+  height: 37px;
+  width: 37px;
+}
+
+.discover .discover-1 {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.discover .group-284 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 73px;
+  min-width: 111px;
+  position: absolute;
+  top: 459px;
+}
+
+.discover .user {
+  height: 30px;
+  margin-left: -1px;
+  margin-top: -1.0px;
+  width: 28px;
+}
+
+.discover .profile {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 30px;
+  width: 60px;
+}
+
+.discover .home {
+  align-items: flex-start;
+  display: flex;
+  height: 34px;
+  left: 72px;
+  min-width: 113px;
+  position: absolute;
+  top: 166px;
+}
+
+.discover .home-1 {
+  height: 33px;
+  margin-left: -1px;
+  margin-top: -1.5px;
+  width: 30px;
+}
+
+.discover .place {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 30px;
+  width: 60px;
+}
+
+.discover .upcoming {
+  left: 123px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 238px;
+  width: 103px;
+}
+
+.discover .clock {
+  height: 33px;
+  left: 71px;
+  position: absolute;
+  top: 237px;
+  width: 32px;
+}
+
+.discover .logo {
+  height: 48px;
+  left: 41px;
+  position: absolute;
+  top: 57px;
+  width: 224px;
+}
+
+.discover .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 6.0px;
+  margin-left: 5px;
+  min-height: 856px;
+  width: 1398px;
+}
+
+.discover .flex-row {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1367px;
+}
+
+.discover .overlap-group5 {
+  height: 370px;
+  position: relative;
+  width: 1145px;
+}
+
+.discover .search-module {
+  align-items: center;
+  background-color: #19191b;
+  border-radius: 20px;
+  display: flex;
+  height: 122px;
+  left: 0;
+  overflow: hidden;
+  padding: 0 24px;
+  position: absolute;
+  top: 0;
+  width: 1145px;
+}
+
+.discover .search-components {
+  align-items: flex-start;
+  display: flex;
+  width: 1097px;
+}
+
+.discover .search-box {
+  align-items: flex-start;
+  background-color: var(--wild-sand);
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  overflow: hidden;
+  padding: 23.7px 23.7px;
+  width: 642px;
+}
+
+.discover .search-icon {
+  background-image: url(../img/search-icon@2x.svg);
+  background-size: 100% 100%;
+  height: 25px;
+  width: 24px;
+}
+
+.discover .article-name-or-keywords {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 10px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 560px;
+}
+
+.discover .drop-down {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  margin-left: 16px;
+  overflow: hidden;
+  padding: 0 20.5px;
+  width: 304px;
+}
+
+.discover .all-categories {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 4px;
+  min-height: 26px;
+  white-space: nowrap;
+  width: 228px;
+}
+
+.discover .caret {
+  height: 10px;
+  margin-left: 6px;
+  margin-top: 0;
+  width: 25px;
+}
+
+.discover .button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  margin-left: 16px;
+  overflow: hidden;
+  padding: 0 24px;
+  width: 119px;
+}
+
+.discover .search {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+  min-height: 26px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.discover .dropdown-list {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 682px;
+  min-height: 346px;
+  position: absolute;
+  top: 24px;
+  width: 304px;
+}
+
+.discover .drop-down-inverted {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 74px;
+  overflow: hidden;
+  padding: 0 20px;
+  width: 304px;
+}
+
+.discover .vid {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 4px;
+  min-height: 26px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.discover .caret-1 {
+  height: 10px;
+  margin-bottom: 0;
+  margin-left: 172px;
+  width: 26px;
+}
+
+.discover .drop-down-list {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: flex;
+  height: 264px;
+  margin-top: 8px;
+  overflow: hidden;
+  width: 304px;
+}
+
+.discover .drop-down-menu {
+  align-items: flex-end;
+  display: flex;
+  height: 296px;
+  justify-content: center;
+  margin-bottom: -32px;
+  margin-left: 1px;
+  overflow: hidden;
+  width: 303px;
+}
+
+.discover .overlap-group-container {
+  height: 297px;
+  margin-bottom: -1px;
+  position: relative;
+  width: 304px;
+}
+
+.discover .overlap-group-1 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 304px;
+}
+
+.discover .line-3 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 304px;
+}
+
+.discover .content {
+  align-items: center;
+  display: flex;
+  height: 74px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.discover .check-box {
+  background-color: var(--wild-sand);
+  border-radius: 4px;
+  height: 24px;
+  width: 24px;
+}
+
+.discover .all {
+  height: 74px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  width: 224px;
+}
+
+.discover .overlap-group1-1 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 74px;
+  width: 304px;
+}
+
+.discover .content-1 {
+  align-items: center;
+  display: flex;
+  height: 74px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 264px;
+}
+
+.discover .check-box-active {
+  height: 24px;
+  width: 25px;
+}
+
+.discover .video-interviews {
+  height: 74px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  width: 224px;
+}
+
+.discover .overlap-group2 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 148px;
+  width: 304px;
+}
+
+.discover .music-videos {
+  height: 74px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  width: 224px;
+}
+
+.discover .overlap-group3 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 222px;
+  width: 304px;
+}
+
+.discover .netflix-reviews {
+  height: 74px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: 16px;
+  width: 224px;
+}
+
+.discover .cinema {
+  align-items: center;
+  display: flex;
+  margin-left: 9px;
+  margin-top: 15px;
+  min-width: 213px;
+}
+
+.discover .map-pin-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.discover .chose-cinema {
+  letter-spacing: -0.24px;
+  margin-bottom: 1.0px;
+  margin-left: 2px;
+  min-height: 31px;
+  min-width: 163px;
+}
+
+.discover .searches {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  min-height: 454px;
+  width: 1378px;
+}
+
+.discover .overlap-group6 {
+  height: 427px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 1376px;
+}
+
+.discover .group-275 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 426px;
+  position: absolute;
+  top: 1px;
+  width: 1340px;
+}
+
+.discover .title {
+  letter-spacing: -0.24px;
+  min-height: 47px;
+}
+
+.discover .span {
+  letter-spacing: -0.09px;
+}
+
+.discover .flex-row-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 343px;
+  margin-right: 14px;
+  margin-top: 36px;
+  min-width: 1264px;
+}
+
+.discover .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 343px;
+  width: 199px;
+}
+
+.discover .rectangle {
+  height: 300px;
+  object-fit: cover;
+  width: 199px;
+}
+
+.discover .name-1 {
+  letter-spacing: -0.24px;
+  margin-left: 4px;
+  margin-top: 12px;
+  min-height: 31px;
+}
+
+.discover .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 343px;
+  width: 199px;
+}
+
+.discover .name {
+  letter-spacing: -0.24px;
+  margin-top: 12px;
+  min-height: 31px;
+}
+
+.discover .name-6 {
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  margin-top: 12px;
+  min-height: 31px;
+}
+
+.discover .see-all {
+  left: 1241px;
+  letter-spacing: -0.24px;
+  opacity: 0.4;
+  position: absolute;
+  top: 0;
+  width: 135px;
+}
+
+.discover .group-261 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 116.78px;
+  min-width: 1137px;
+}
+
+.discover .exclude {
+  height: 27px;
+  width: 71px;
+}
+
+.discover .group-261-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 142px;
+  min-width: 284px;
+}
+
+.discover .group-261-2 {
+  background-image: url(../img/exclude-2@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  margin-left: 142px;
+  width: 71px;
+}
+
+.discover .group-container {
+  height: 27px;
+  margin-left: 142px;
+  position: relative;
+  width: 498px;
+}
+
+.discover .group-278 {
+  background-image: url(../img/exclude-3@2x.svg);
+  background-size: 100% 100%;
+  height: 27px;
+  left: 213px;
+  position: absolute;
+  top: 0;
+  width: 71px;
+}
+
+.discover .group-277 {
+  align-items: flex-start;
+  display: flex;
+  height: 27px;
+  left: 0;
+  min-width: 498px;
+  position: absolute;
+  top: 0;
+}
+
+.discover .exclude-1 {
+  height: 27px;
+  margin-left: 356px;
+  width: 71px;
+}

@@ -1,0 +1,416 @@
+/* screen - admin */
+
+.admin {
+  align-items: flex-start;
+  display: flex;
+  height: 919px;
+  min-width: 1721px;
+  overflow-x: hidden;
+}
+
+.admin .overlap-group6 {
+  background-image: url(../img/bg@1x.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  margin-left: -99px;
+  margin-top: -63px;
+  position: relative;
+  width: 1920px;
+}
+
+.admin .overlap-group2 {
+  height: 930px;
+  left: 99px;
+  position: absolute;
+  top: 52px;
+  width: 1721px;
+}
+
+.admin .menu {
+  align-items: center;
+  background-image: url(../img/menu@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 902px;
+  padding: 20px 29px;
+  position: absolute;
+  top: 19px;
+  width: 287px;
+}
+
+.admin .logo {
+  align-self: flex-end;
+  height: 48px;
+  width: 224px;
+}
+
+.admin .group-286 {
+  align-items: center;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 231px;
+  min-width: 145px;
+}
+
+.admin .iconly-light-ticket {
+  height: 35px;
+  width: 35px;
+}
+
+.admin .tickets {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.admin .group-285 {
+  align-items: center;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 37px;
+  min-width: 148px;
+}
+
+.admin .compass-1 {
+  height: 37px;
+  width: 37px;
+}
+
+.admin .discover {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.admin .union {
+  height: 930px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1701px;
+}
+
+.admin .overlap-group {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 39px;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  left: 439px;
+  min-width: 524px;
+  padding: 0 125px;
+  position: absolute;
+  top: 846px;
+}
+
+.admin .add-chosen-option {
+  letter-spacing: 0;
+  min-height: 38px;
+  min-width: 269px;
+}
+
+.admin .vector {
+  height: 12px;
+  left: 68px;
+  position: absolute;
+  top: 561px;
+  width: 27px;
+}
+
+.admin .vector-1 {
+  height: 15px;
+  left: 74px;
+  position: absolute;
+  top: 541px;
+  width: 15px;
+}
+
+.admin .vector-2 {
+  height: 12px;
+  left: 100px;
+  position: absolute;
+  top: 549px;
+  width: 2px;
+}
+
+.admin .vector-3 {
+  height: 2px;
+  left: 95px;
+  position: absolute;
+  top: 554px;
+  width: 12px;
+}
+
+.admin .union-1 {
+  height: 47px;
+  left: 118px;
+  position: absolute;
+  top: 537px;
+  width: 111px;
+}
+
+.admin .home {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  left: 72px;
+  min-width: 113px;
+  position: absolute;
+  top: 190px;
+}
+
+.admin .home-1 {
+  height: 32px;
+  margin-left: -1px;
+  margin-top: -1px;
+  width: 30px;
+}
+
+.admin .place {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 30px;
+  width: 60px;
+}
+
+.admin .upcoming {
+  left: 123px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 260px;
+  width: 103px;
+}
+
+.admin .clock {
+  height: 32px;
+  left: 71px;
+  position: absolute;
+  top: 259px;
+  width: 32px;
+}
+
+.admin .union-2 {
+  height: 30px;
+  left: 71px;
+  position: absolute;
+  top: 462px;
+  width: 112px;
+}
+
+.admin .rectangle-112 {
+  background-color: var(--shark);
+  border-radius: 30px;
+  height: 919px;
+  left: 1148px;
+  position: absolute;
+  top: 11px;
+  width: 573px;
+}
+
+.admin .user {
+  align-items: center;
+  display: flex;
+  height: 100px;
+  left: 1294px;
+  min-width: 244px;
+  position: absolute;
+  top: 120px;
+}
+
+.admin .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/profile-photo@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 100px;
+}
+
+.admin .profile-photo {
+  background-color: #000000e6;
+  border-radius: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.admin .popescu-ion {
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-height: 30px;
+  min-width: 122px;
+}
+
+.admin .upload {
+  height: 20px;
+  left: 1334px;
+  position: absolute;
+  top: 160px;
+  width: 20px;
+}
+
+.admin .future-functions-to-be-added {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 1277px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 762px;
+}
+
+.admin .admin-1 {
+  left: 1569px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 231px;
+}
+
+.admin .manage-movies {
+  color: var(--chateau-green);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 300;
+  left: 429px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 89px;
+}
+
+.admin .cinema {
+  align-items: center;
+  display: flex;
+  height: 48px;
+  left: 429px;
+  min-width: 213px;
+  position: absolute;
+  top: 139px;
+}
+
+.admin .map-pin-1 {
+  height: 48px;
+  width: 48px;
+}
+
+.admin .chose-cinema {
+  letter-spacing: -0.24px;
+  margin-bottom: 1.0px;
+  margin-left: 2px;
+  min-height: 31px;
+  min-width: 163px;
+}
+
+.admin .overlap-group3 {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 39px;
+  display: flex;
+  height: 50px;
+  left: 1267px;
+  min-width: 524px;
+  padding: 0 118px;
+  position: absolute;
+  top: 667px;
+}
+
+.admin .postponedelay-movie {
+  letter-spacing: 0;
+  min-height: 38px;
+  min-width: 287px;
+}
+
+.admin .btn1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1267px;
+  min-height: 146px;
+  position: absolute;
+  top: 342px;
+  width: 528px;
+}
+
+.admin .options {
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  min-height: 38px;
+  min-width: 98px;
+}
+
+.admin .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--chateau-green);
+  border-radius: 39px;
+  display: flex;
+  height: 50px;
+  margin-right: 4.0px;
+  margin-top: 58px;
+  min-width: 524px;
+  padding: 4px 193px;
+}
+
+.admin .x-movie {
+  letter-spacing: 0;
+  min-height: 38px;
+}
+
+.admin .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--chateau-green);
+  border-radius: 39px;
+  display: flex;
+  height: 50px;
+  left: 1267px;
+  min-width: 524px;
+  padding: 4px 168px;
+  position: absolute;
+  top: 553px;
+}
+
+.admin .form {
+  background-color: var(--shark);
+  border-radius: 25px;
+  height: 675px;
+  left: 429px;
+  position: absolute;
+  top: 199px;
+  width: 747px;
+}
+
+.admin .placeholder-for-form {
+  left: 502px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 272px;
+}
+
+.admin .removing-via-searching-in-db {
+  left: 502px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 454px;
+}
+
+.admin .placeholder-for-form-1 {
+  left: 502px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 624px;
+}
+
+.admin .backarrow {
+  height: 32px;
+  left: 1267px;
+  position: absolute;
+  top: 89px;
+  width: 32px;
+}

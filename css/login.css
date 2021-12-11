@@ -1,0 +1,383 @@
+/* screen - login */
+
+.login {
+  align-items: flex-start;
+  background-color: var(--shark);
+  display: flex;
+  width: 1920px;
+}
+
+.login .overlap-group2 {
+  background-image: url(../img/rectangle-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1080px;
+  position: relative;
+  width: 1178px;
+}
+
+.login .group-48 {
+  background-image: url(../img/rectangle-12@1x.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1178px;
+}
+
+.login .logo {
+  height: 48px;
+  left: 30px;
+  position: absolute;
+  top: 28px;
+  width: 224px;
+}
+
+.login .group-47 {
+  align-items: center;
+  background-color: var(--white-4);
+  border-radius: 40px;
+  display: flex;
+  height: 80px;
+  left: 549px;
+  min-width: 80px;
+  padding: 0 17px;
+  position: absolute;
+  top: 500px;
+}
+
+.login .overlap-group1 {
+  height: 46px;
+  position: relative;
+  width: 46px;
+}
+
+.login .ellipse-1 {
+  background-color: #050214;
+  border-radius: 13.47px/13.76px;
+  height: 28px;
+  left: 11px;
+  position: absolute;
+  top: 10px;
+  width: 27px;
+}
+
+.login .play-button-1 {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 46px;
+}
+
+.login .group-43 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 119px;
+  margin-top: 223px;
+  min-height: 633px;
+  width: 433px;
+}
+
+.login .group-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 2.0px;
+  min-height: 498px;
+  width: 431px;
+}
+
+.login .group-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  min-height: 121px;
+  width: 310px;
+}
+
+.login .sign-in {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 45px;
+}
+
+.login .group-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 54px;
+  width: 312px;
+}
+
+.login .if-you-dont-have-an-account {
+  letter-spacing: 0;
+  min-height: 24px;
+  width: 308px;
+}
+
+.login .you-can-register-here {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 24px;
+  width: 308px;
+}
+
+.login .span1 {
+  color: var(--chateau-green);
+  font-weight: 600;
+}
+
+.login .group-40 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 52px;
+  min-height: 325px;
+  width: 431px;
+}
+
+.login .group-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 177px;
+  width: 431px;
+}
+
+.login .group-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+  min-height: 64px;
+  width: 429px;
+}
+
+.login .email {
+  letter-spacing: 0;
+  min-height: 20px;
+}
+
+.login .flex-row {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-top: 11px;
+  min-width: 226px;
+}
+
+.login .message-1 {
+  height: 17px;
+  margin-top: 1.0px;
+  width: 17px;
+}
+
+.login .enter-your-email-address {
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 24px;
+  min-width: 199px;
+}
+
+.login .rectangle-8 {
+  background-color: var(--white);
+  height: 2px;
+  margin-top: 7px;
+  width: 429px;
+}
+
+.login .group-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 49px;
+  min-height: 64px;
+  width: 433px;
+}
+
+.login .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 55px;
+  min-width: 431px;
+}
+
+.login .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 55px;
+  width: 189px;
+}
+
+.login .password {
+  letter-spacing: 0;
+  margin-left: 2px;
+  min-height: 20px;
+}
+
+.login .group-35 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-top: 11px;
+  min-width: 189px;
+}
+
+.login .padlock-1 {
+  height: 17px;
+  margin-bottom: 3.0px;
+  width: 17px;
+}
+
+.login .enter-your-password {
+  letter-spacing: 0;
+  margin-left: 8px;
+  min-height: 24px;
+  min-width: 162px;
+}
+
+.login .invisible-1 {
+  height: 14px;
+  margin-bottom: 2px;
+  margin-left: 228px;
+  width: 14px;
+}
+
+.login .rectangle-9 {
+  background-color: var(--white);
+  height: 2px;
+  margin-left: 2px;
+  margin-top: 7px;
+  width: 429px;
+}
+
+.login .group-24 {
+  align-items: flex-end;
+  display: flex;
+  height: 18px;
+  margin-left: 2px;
+  margin-top: 17px;
+  min-width: 433px;
+}
+
+.login .rectangle-5 {
+  background-color: var(--white);
+  height: 15px;
+  width: 15px;
+}
+
+.login .rememebr-me {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 18px;
+  min-width: 90px;
+}
+
+.login .forgot-password {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  margin-left: 206px;
+  min-height: 18px;
+  min-width: 108px;
+}
+
+.login .overlap-group {
+  align-items: flex-end;
+  background-color: var(--chateau-green);
+  border-radius: 32px;
+  box-shadow: 0px 4px 26px #00000040;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-left: 2px;
+  margin-top: 60px;
+  min-width: 429px;
+  padding: 13px 191px;
+}
+
+.login .login-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 26px;
+  min-width: 46px;
+}
+
+.login .or-continue-with {
+  color: #b4b4b4;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 39px;
+  min-height: 24px;
+  min-width: 130px;
+}
+
+.login .group-13 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 31px;
+  min-width: 91px;
+}
+
+.login .facebook {
+  align-items: flex-start;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  min-width: 41px;
+  padding: 0.1px 2.2px;
+}
+
+.login .overlap-group-1 {
+  height: 39px;
+  position: relative;
+  width: 37px;
+}
+
+.login .bg {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.login .f {
+  height: 29px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 17px;
+}
+
+.login .google {
+  height: 42px;
+  margin-left: 8px;
+  margin-top: -0.27px;
+  width: 42px;
+}

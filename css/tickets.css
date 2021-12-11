@@ -1,0 +1,1030 @@
+/* screen - tickets */
+
+.tickets {
+  align-items: flex-start;
+  display: flex;
+  height: 919px;
+  min-width: 1721px;
+  overflow-x: hidden;
+}
+
+.tickets .overlap-group9 {
+  background-image: url(../img/bg@1x.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  margin-left: -99px;
+  margin-top: -80px;
+  position: relative;
+  width: 1920px;
+}
+
+.tickets .overlap-group1 {
+  height: 924px;
+  left: 99px;
+  position: absolute;
+  top: 77px;
+  width: 1722px;
+}
+
+.tickets .overlap-group {
+  height: 924px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1722px;
+}
+
+.tickets .menu {
+  height: 902px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 287px;
+}
+
+.tickets .union {
+  height: 919px;
+  left: 21px;
+  position: absolute;
+  top: 5px;
+  width: 1701px;
+}
+
+.tickets .rectangle-116 {
+  background-color: var(--white-5);
+  filter: blur(2px);;
+  height: 1px;
+  left: 287px;
+  position: absolute;
+  top: 769px;
+  transform: rotate(-180deg);
+  width: 864px;
+}
+
+.tickets .rectangle {
+  height: 436px;
+  left: 575px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 289px;
+}
+
+.tickets .rectangle-119 {
+  height: 597px;
+  left: 280px;
+  position: absolute;
+  top: 0;
+  width: 901px;
+}
+
+.tickets .group-286 {
+  align-items: center;
+  display: flex;
+  height: 35px;
+  left: 69px;
+  min-width: 145px;
+  position: absolute;
+  top: 333px;
+}
+
+.tickets .iconly-light-ticket {
+  height: 35px;
+  width: 35px;
+}
+
+.tickets .tickets-1 {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.tickets .group-285 {
+  align-items: center;
+  display: flex;
+  height: 37px;
+  left: 69px;
+  min-width: 148px;
+  position: absolute;
+  top: 406px;
+}
+
+.tickets .compass-1 {
+  height: 37px;
+  width: 37px;
+}
+
+.tickets .discover {
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  width: 92px;
+}
+
+.tickets .group-284 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 73px;
+  min-width: 111px;
+  position: absolute;
+  top: 479px;
+}
+
+.tickets .user {
+  height: 30px;
+  margin-left: -1px;
+  margin-top: -1.0px;
+  width: 28px;
+}
+
+.tickets .profile {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 30px;
+  width: 60px;
+}
+
+.tickets .watch-trailer {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 920px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 596px;
+}
+
+.tickets .span0 {
+  color: var(--white);
+  letter-spacing: -0.09px;
+}
+
+.tickets .span1 {
+  color: var(--chateau-green);
+  font-size: var(--font-size-l);
+  letter-spacing: -0.06px;
+}
+
+.tickets .nume-film {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  left: 659px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 483px;
+}
+
+.tickets .home {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  left: 72px;
+  min-width: 113px;
+  position: absolute;
+  top: 179px;
+}
+
+.tickets .home-1 {
+  height: 32px;
+  margin-left: -1px;
+  margin-top: -1px;
+  width: 30px;
+}
+
+.tickets .place {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 30px;
+  width: 60px;
+}
+
+.tickets .upcoming {
+  left: 123px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 252px;
+  width: 103px;
+}
+
+.tickets .clock {
+  height: 32px;
+  left: 71px;
+  position: absolute;
+  top: 251px;
+  width: 32px;
+}
+
+.tickets .rectangle-112 {
+  background-color: var(--shark);
+  border-radius: 30px;
+  height: 919px;
+  left: 1148px;
+  position: absolute;
+  top: 3px;
+  width: 573px;
+}
+
+.tickets .backbutton {
+  height: 32px;
+  left: 430px;
+  position: absolute;
+  top: 108px;
+  width: 32px;
+}
+
+.tickets .playbutton {
+  align-items: center;
+  display: flex;
+  height: 173px;
+  left: 908px;
+  min-width: 205px;
+  padding: 22px 0;
+  position: absolute;
+  top: 674px;
+}
+
+.tickets .rectangle-117 {
+  background-color: var(--white-5);
+  filter: blur(2px);;
+  height: 1px;
+  margin-left: -86px;
+  transform: rotate(-90.00deg);
+  width: 173px;
+}
+
+.tickets .play-circle {
+  align-self: flex-end;
+  height: 64px;
+  margin-left: 54px;
+  width: 64px;
+}
+
+.tickets .imdb {
+  height: 27px;
+  left: 783px;
+  position: absolute;
+  top: 592px;
+  width: 71px;
+}
+
+.tickets .seats {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1390px;
+  min-height: 307px;
+  position: absolute;
+  top: 430px;
+  width: 303px;
+}
+
+.tickets .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 243px;
+  min-width: 321px;
+}
+
+.tickets .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 240px;
+  width: 38px;
+}
+
+.tickets .group-20 {
+  height: 16px;
+  width: 38px;
+}
+
+.tickets .group-2 {
+  height: 16px;
+  margin-top: 12px;
+  width: 38px;
+}
+
+.tickets .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 240px;
+  width: 148px;
+}
+
+.tickets .group-208 {
+  height: 16px;
+  width: 148px;
+}
+
+.tickets .group-2-1 {
+  height: 16px;
+  margin-top: 12px;
+  width: 148px;
+}
+
+.tickets .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 240px;
+  width: 38px;
+}
+
+.tickets .group-234 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  min-height: 241px;
+  opacity: 0.2;
+  width: 28px;
+}
+
+.tickets .a {
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  min-height: 17px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.tickets .b {
+  letter-spacing: -0.24px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.tickets .group-234-item {
+  letter-spacing: -0.24px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.tickets .d {
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 8px;
+  text-align: center;
+}
+
+.tickets .e {
+  letter-spacing: -0.24px;
+  margin-left: 2px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 6px;
+  text-align: center;
+}
+
+.tickets .f {
+  letter-spacing: -0.24px;
+  margin-left: 2px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 7px;
+  text-align: center;
+}
+
+.tickets .h {
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 9px;
+  text-align: center;
+}
+
+.tickets .i {
+  letter-spacing: -0.24px;
+  margin-left: 2px;
+  margin-top: 11px;
+  min-height: 17px;
+  min-width: 4px;
+  text-align: center;
+}
+
+.tickets .group-201 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 19px;
+  margin-right: 25.0px;
+  margin-top: 45px;
+  min-width: 234px;
+}
+
+.tickets .sofa-7 {
+  height: 16px;
+  width: 16px;
+}
+
+.tickets .available {
+  align-self: flex-end;
+  letter-spacing: -0.24px;
+  margin-left: 2px;
+  min-height: 17px;
+  min-width: 49px;
+  text-align: center;
+}
+
+.tickets .sofa-8 {
+  height: 16px;
+  margin-left: 15px;
+  width: 16px;
+}
+
+.tickets .booked {
+  align-self: flex-end;
+  letter-spacing: -0.24px;
+  margin-left: 4px;
+  min-height: 17px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.tickets .sofa-9 {
+  height: 16px;
+  margin-left: 17px;
+  width: 16px;
+}
+
+.tickets .selected {
+  align-self: flex-end;
+  letter-spacing: -0.24px;
+  margin-left: 6px;
+  min-height: 17px;
+  min-width: 47px;
+}
+
+.tickets .buy-button {
+  align-items: flex-start;
+  display: flex;
+  height: 56px;
+  left: 1398px;
+  min-width: 272px;
+  position: absolute;
+  top: 782px;
+}
+
+.tickets .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--chateau-green);
+  border-radius: 16px;
+  display: flex;
+  height: 56px;
+  min-width: 204px;
+  padding: 14px 52px;
+}
+
+.tickets .confirm-17 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: -0.24px;
+  min-height: 26px;
+  min-width: 100px;
+  text-align: center;
+}
+
+.tickets .group-237 {
+  align-items: flex-start;
+  background-color: #121212;
+  border: 1px solid var(--white-4);
+  border-radius: 16px;
+  display: flex;
+  height: 56px;
+  margin-left: 10px;
+  min-width: 58px;
+  padding: 15.0px 16.0px;
+}
+
+.tickets .iconly-bold-scan {
+  height: 24px;
+  width: 24px;
+}
+
+.tickets .sepline1 {
+  background-color: var(--white-5);
+  filter: blur(2px);;
+  height: 1px;
+  left: 386px;
+  position: absolute;
+  top: 673px;
+  transform: rotate(-180deg);
+  width: 861px;
+}
+
+.tickets .read-reviews {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 760px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 881px;
+}
+
+.tickets .span1-1 {
+  letter-spacing: -0.03px;
+}
+
+.tickets .span2 {
+  color: var(--chateau-green);
+  font-size: 18px;
+  letter-spacing: -0.04px;
+}
+
+.tickets .year {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 798px;
+  min-height: 129px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 698px;
+  width: 72px;
+}
+
+.tickets .calendar-1 {
+  height: 51px;
+  margin-left: 2.0px;
+  width: 64px;
+}
+
+.tickets .year-1 {
+  letter-spacing: -0.24px;
+  margin-top: 6px;
+  min-height: 36px;
+  opacity: 0.4;
+  text-align: center;
+  width: 68px;
+}
+
+.tickets .number-1 {
+  letter-spacing: -0.24px;
+  margin-left: 1.0px;
+  min-height: 36px;
+  text-align: center;
+  width: 63px;
+}
+
+.tickets .length {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 461px;
+  min-height: 133px;
+  position: absolute;
+  top: 696px;
+  width: 90px;
+}
+
+.tickets .clock-1 {
+  height: 55px;
+  margin-right: 4.0px;
+  width: 56px;
+}
+
+.tickets .overlap-group2 {
+  height: 74px;
+  margin-right: 4.0px;
+  margin-top: 4px;
+  position: relative;
+  width: 86px;
+}
+
+.tickets .text-2 {
+  left: 0;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 81px;
+}
+
+.tickets .length-1 {
+  left: 0;
+  letter-spacing: -0.24px;
+  opacity: 0.4;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 86px;
+}
+
+.tickets .lang {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 606px;
+  min-height: 138px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 694px;
+  width: 138px;
+}
+
+.tickets .volume-2-1 {
+  height: 58px;
+  margin-right: 4.0px;
+  width: 58px;
+}
+
+.tickets .overlap-group3 {
+  height: 77px;
+  margin-right: 4.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 134px;
+}
+
+.tickets .language {
+  left: 0;
+  letter-spacing: -0.24px;
+  opacity: 0.4;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 134px;
+}
+
+.tickets .surname {
+  left: 17px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  width: 96px;
+}
+
+.tickets .date {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 1346px;
+  min-width: 385px;
+  position: absolute;
+  top: 267px;
+}
+
+.tickets .overlap-group4 {
+  height: 49px;
+  margin-bottom: 0;
+  position: relative;
+  width: 131px;
+}
+
+.tickets .text-6 {
+  left: 84px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.tickets .text-7 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.tickets .rectangle-9 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.tickets .text-3 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: -0.24px;
+  margin-bottom: 3.0px;
+  margin-left: 26px;
+  min-height: 36px;
+  min-width: 61px;
+  text-align: center;
+}
+
+.tickets .overlap-group5 {
+  align-self: center;
+  height: 49px;
+  margin-bottom: 0;
+  margin-left: 26px;
+  position: relative;
+  width: 131px;
+}
+
+.tickets .text-4 {
+  left: 6px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.tickets .text-5 {
+  left: 70px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.tickets .data {
+  align-items: flex-start;
+  display: flex;
+  height: 54px;
+  left: 1346px;
+  min-width: 375px;
+  position: absolute;
+  top: 176px;
+}
+
+.tickets .overlap-group6 {
+  height: 50px;
+  position: relative;
+  width: 120px;
+}
+
+.tickets .overlap-group-2 {
+  align-items: flex-end;
+  border-radius: 27px;
+  display: flex;
+  flex-direction: column;
+  left: 22px;
+  min-height: 50px;
+  padding: 7px 5px;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.tickets .wed {
+  color: #b4b4b4;
+  font-family: var(--font-family-product_sans-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  margin-top: 5px;
+  min-height: 13px;
+  min-width: 22px;
+}
+
+.tickets .number-2 {
+  letter-spacing: -0.24px;
+  margin-right: 4px;
+  min-height: 18px;
+  min-width: 14px;
+}
+
+.tickets .group-182 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 77px;
+  min-height: 50px;
+  padding: 11px 8px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.tickets .thu {
+  letter-spacing: -0.24px;
+  margin-top: 1px;
+  min-height: 13px;
+  min-width: 18px;
+  text-align: center;
+}
+
+.tickets .number-3 {
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  min-height: 14px;
+  text-align: center;
+  width: 16px;
+}
+
+.tickets .rectangle-9-1 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 120px;
+}
+
+.tickets .group-183 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.0px;
+  margin-left: 14px;
+  min-height: 27px;
+  opacity: 0.6;
+  width: 16px;
+}
+
+.tickets .fri {
+  color: var(--white);
+  font-family: var(--font-family-product_sans-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  margin-left: 2px;
+  min-height: 13px;
+  min-width: 12px;
+  text-align: center;
+}
+
+.tickets .number-4 {
+  color: var(--white);
+  font-family: var(--font-family-product_sans-regular);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: -0.24px;
+  min-height: 14px;
+  text-align: center;
+  width: 16px;
+}
+
+.tickets .group-184 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 54px;
+  width: 32px;
+}
+
+.tickets .sat {
+  color: var(--white);
+  font-family: var(--font-family-product_sans-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: -0.24px;
+  margin-left: 1px;
+  min-height: 21px;
+  min-width: 26px;
+  text-align: center;
+}
+
+.tickets .number-5 {
+  color: var(--white);
+  font-family: var(--font-family-product_sans-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: -0.24px;
+  margin-top: 4px;
+  min-height: 29px;
+  min-width: 28px;
+  text-align: center;
+}
+
+.tickets .group-185 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  min-height: 50px;
+  padding: 11px 0;
+  width: 37px;
+}
+
+.tickets .place-1 {
+  letter-spacing: -0.24px;
+  margin-right: 1.0px;
+  margin-top: 1px;
+  min-height: 13px;
+  min-width: 18px;
+  text-align: center;
+}
+
+.tickets .number {
+  letter-spacing: -0.24px;
+  min-height: 14px;
+  text-align: center;
+  width: 19px;
+}
+
+.tickets .overlap-group7 {
+  height: 50px;
+  margin-left: 1px;
+  position: relative;
+  width: 120px;
+}
+
+.tickets .group-186 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 50px;
+  padding: 11px 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.tickets .mon {
+  letter-spacing: -0.24px;
+  margin-top: 1px;
+  min-height: 13px;
+  min-width: 21px;
+  text-align: center;
+}
+
+.tickets .group-187 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 66px;
+  min-height: 50px;
+  padding: 11px 0;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.tickets .tue {
+  letter-spacing: -0.24px;
+  margin-top: 1px;
+  min-height: 13px;
+  min-width: 17px;
+  text-align: center;
+}
+
+.tickets .overlap-group8 {
+  height: 67px;
+  left: 1351px;
+  position: absolute;
+  top: 338px;
+  width: 365px;
+}
+
+.tickets .vector-12 {
+  height: 34px;
+  left: 19px;
+  position: absolute;
+  top: 8px;
+  width: 327px;
+}
+
+.tickets .vector-13 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.tickets .screen {
+  color: var(--white);
+  font-family: var(--font-family-product_sans-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 163px;
+  letter-spacing: -0.24px;
+  opacity: 0.3;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+}
+
+.tickets .logo {
+  height: 48px;
+  left: 133px;
+  position: absolute;
+  top: 108px;
+  width: 224px;
+}
