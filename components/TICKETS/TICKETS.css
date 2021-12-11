@@ -1,25 +1,30 @@
 .tickets-5 {
   align-items: flex-start;
   display: flex;
+  height: 919px;
   min-width: 1721px;
   overflow-x: hidden;
 }
 
-.overlap-group5-3 {
-  height: 919px;
+.overlap-group9 {
+  background-image: url(/static/img/bg@1x.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  margin-left: -99px;
+  margin-top: -80px;
   position: relative;
-  width: 1727px;
+  width: 1920px;
 }
 
-.overlap-group1-7 {
+.overlap-group1-8 {
   height: 924px;
-  left: 0;
+  left: 99px;
   position: absolute;
-  top: -3px;
+  top: 77px;
   width: 1722px;
 }
 
-.overlap-group-12 {
+.overlap-group-10 {
   height: 924px;
   left: 0;
   position: absolute;
@@ -151,58 +156,23 @@
   width: 573px;
 }
 
-.iconly-bulk-arrow-left-circle-3 {
+.backbutton {
   height: 32px;
-  left: 331px;
+  left: 430px;
   position: absolute;
-  top: 28px;
+  top: 108px;
   width: 32px;
 }
 
-.group-289 {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  left: 699px;
-  min-height: 129px;
-  padding: 0 0.0px;
-  position: absolute;
-  top: 618px;
-  width: 72px;
-}
-
-.calendar-1 {
-  height: 51px;
-  margin-left: 2.0px;
-  width: 64px;
-}
-
-.year {
-  letter-spacing: -0.24px;
-  margin-top: 6px;
-  min-height: 36px;
-  opacity: 0.4;
-  text-align: center;
-  width: 68px;
-}
-
-.number-4 {
-  letter-spacing: -0.24px;
-  margin-left: 1.0px;
-  min-height: 36px;
-  text-align: center;
-  width: 63px;
-}
-
-.group-294-3 {
+.playbutton {
   align-items: center;
   display: flex;
   height: 173px;
-  left: 809px;
+  left: 908px;
   min-width: 205px;
   padding: 22px 0;
   position: absolute;
-  top: 594px;
+  top: 674px;
 }
 
 .rectangle-117 {
@@ -221,112 +191,33 @@
   width: 64px;
 }
 
-.exclude-6 {
+.imdb {
   height: 27px;
-  left: 684px;
+  left: 783px;
   position: absolute;
-  top: 512px;
+  top: 592px;
   width: 71px;
 }
 
-.frame-12 {
-  align-items: flex-end;
-  display: flex;
-  height: 49px;
-  left: 1247px;
-  min-width: 375px;
-  position: absolute;
-  top: 187px;
-}
-
-.overlap-group-13 {
-  height: 49px;
-  margin-bottom: 0;
-  position: relative;
-  width: 131px;
-}
-
-.text-5 {
-  left: 84px;
-  letter-spacing: -0.24px;
-  position: absolute;
-  text-align: center;
-  top: 14px;
-}
-
-.text-6 {
-  left: 19px;
-  letter-spacing: -0.24px;
-  position: absolute;
-  text-align: center;
-  top: 14px;
-}
-
-.rectangle-9-3 {
-  height: 49px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 131px;
-}
-
-.text-2 {
-  color: var(--white);
-  font-family: var(--font-family-poppins-bold);
-  font-size: var(--font-size-l);
-  font-weight: 700;
-  letter-spacing: -0.24px;
-  margin-bottom: 3.0px;
-  margin-left: 26px;
-  min-height: 36px;
-  min-width: 61px;
-  text-align: center;
-}
-
-.overlap-group1-8 {
-  align-self: center;
-  height: 49px;
-  margin-bottom: 0;
-  margin-left: 26px;
-  position: relative;
-  width: 131px;
-}
-
-.text-3 {
-  left: 6px;
-  letter-spacing: -0.24px;
-  position: absolute;
-  text-align: center;
-  top: 14px;
-}
-
-.text-4 {
-  left: 70px;
-  letter-spacing: -0.24px;
-  position: absolute;
-  text-align: center;
-  top: 14px;
-}
-
-.frame-10 {
+.seats {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 1291px;
-  min-height: 304px;
+  left: 1390px;
+  min-height: 307px;
   position: absolute;
-  top: 350px;
-  width: 302px;
+  top: 430px;
+  width: 303px;
 }
 
-.flex-row-9 {
+.flex-row-10 {
   align-items: flex-start;
   display: flex;
   height: 243px;
   min-width: 321px;
 }
 
-.group-container-4 {
+.group-container-3 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -345,7 +236,7 @@
   width: 38px;
 }
 
-.group-container-5 {
+.group-container-4 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -365,7 +256,7 @@
   width: 148px;
 }
 
-.group-container-6 {
+.group-container-5 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
@@ -459,7 +350,7 @@
   align-self: center;
   display: flex;
   height: 19px;
-  margin-right: 24.0px;
+  margin-right: 25.0px;
   margin-top: 45px;
   min-width: 234px;
 }
@@ -507,19 +398,17 @@
   min-width: 47px;
 }
 
-.frame-15 {
+.buy-button {
   align-items: flex-start;
   display: flex;
   height: 56px;
-  justify-content: flex-end;
-  left: 1291px;
-  min-width: 286px;
-  padding: 0 6px;
+  left: 1398px;
+  min-width: 272px;
   position: absolute;
-  top: 702px;
+  top: 782px;
 }
 
-.overlap-group-14 {
+.overlap-group-11 {
   align-items: flex-end;
   background-color: var(--chateau-green);
   border-radius: 16px;
@@ -557,25 +446,80 @@
   width: 24px;
 }
 
-.rectangle-116-1 {
+.sepline1 {
   background-color: var(--white-5);
   filter: blur(2px);;
   height: 1px;
-  left: 287px;
+  left: 386px;
   position: absolute;
-  top: 593px;
+  top: 673px;
   transform: rotate(-180deg);
   width: 861px;
 }
 
-.group-287 {
+.read-reviews {
+  left: 760px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 881px;
+}
+
+.span1-1 {
+  letter-spacing: -0.03px;
+}
+
+.span2 {
+  color: var(--chateau-green);
+  font-family: var(--font-family-poppins-bold);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.04px;
+}
+
+.year {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 798px;
+  min-height: 129px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 698px;
+  width: 72px;
+}
+
+.calendar-1 {
+  height: 51px;
+  margin-left: 2.0px;
+  width: 64px;
+}
+
+.year-1 {
+  letter-spacing: -0.24px;
+  margin-top: 6px;
+  min-height: 36px;
+  opacity: 0.4;
+  text-align: center;
+  width: 68px;
+}
+
+.number-4 {
+  letter-spacing: -0.24px;
+  margin-left: 1.0px;
+  min-height: 36px;
+  text-align: center;
+  width: 63px;
+}
+
+.length {
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 362px;
+  left: 461px;
   min-height: 133px;
   position: absolute;
-  top: 616px;
+  top: 696px;
   width: 90px;
 }
 
@@ -593,7 +537,7 @@
   width: 86px;
 }
 
-.text-7 {
+.text-2 {
   left: 0;
   letter-spacing: -0.24px;
   position: absolute;
@@ -602,7 +546,7 @@
   width: 81px;
 }
 
-.length {
+.length-1 {
   left: 0;
   letter-spacing: -0.24px;
   opacity: 0.4;
@@ -612,15 +556,15 @@
   width: 86px;
 }
 
-.group-288 {
+.lang {
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 507px;
+  left: 606px;
   min-height: 138px;
   padding: 0 0.0px;
   position: absolute;
-  top: 614px;
+  top: 694px;
   width: 138px;
 }
 
@@ -630,7 +574,7 @@
   width: 58px;
 }
 
-.overlap-group3-3 {
+.overlap-group3-4 {
   height: 77px;
   margin-right: 4.0px;
   margin-top: 3px;
@@ -657,43 +601,102 @@
   width: 96px;
 }
 
-.read-reviews {
-  left: 661px;
+.date {
+  align-items: flex-end;
+  display: flex;
+  height: 49px;
+  left: 1346px;
+  min-width: 385px;
+  position: absolute;
+  top: 267px;
+}
+
+.overlap-group4-2 {
+  height: 49px;
+  margin-bottom: 0;
+  position: relative;
+  width: 131px;
+}
+
+.text-6 {
+  left: 84px;
   letter-spacing: -0.24px;
   position: absolute;
   text-align: center;
-  top: 801px;
+  top: 14px;
 }
 
-.span1-1 {
-  letter-spacing: -0.03px;
+.text-7 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
 }
 
-.span2 {
-  color: var(--chateau-green);
+.rectangle-9-3 {
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.text-3 {
+  color: var(--white);
   font-family: var(--font-family-poppins-bold);
-  font-size: 18px;
+  font-size: var(--font-size-l);
   font-weight: 700;
-  letter-spacing: -0.04px;
+  letter-spacing: -0.24px;
+  margin-bottom: 3.0px;
+  margin-left: 26px;
+  min-height: 36px;
+  min-width: 61px;
+  text-align: center;
 }
 
-.frame-13 {
+.overlap-group5-3 {
+  align-self: center;
+  height: 49px;
+  margin-bottom: 0;
+  margin-left: 26px;
+  position: relative;
+  width: 131px;
+}
+
+.text-4 {
+  left: 6px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.text-5 {
+  left: 70px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+}
+
+.data {
   align-items: flex-start;
   display: flex;
   height: 54px;
-  left: 1247px;
+  left: 1346px;
   min-width: 375px;
   position: absolute;
-  top: 96px;
+  top: 176px;
 }
 
-.overlap-group2-6 {
+.overlap-group7-2 {
   height: 50px;
   position: relative;
   width: 120px;
 }
 
-.overlap-group-15 {
+.overlap-group-12 {
   align-items: flex-end;
   border-radius: 27px;
   display: flex;
@@ -796,7 +799,7 @@
   text-align: center;
 }
 
-.overlap-group1-9 {
+.overlap-group6-2 {
   height: 50px;
   margin-left: 1px;
   position: relative;
@@ -830,11 +833,11 @@
   width: 19px;
 }
 
-.overlap-group4-2 {
+.overlap-group8-1 {
   height: 67px;
-  left: 1252px;
+  left: 1351px;
   position: absolute;
-  top: 258px;
+  top: 338px;
   width: 365px;
 }
 
@@ -865,9 +868,9 @@
 
 .logo-7 {
   height: 48px;
-  left: 34px;
+  left: 133px;
   position: absolute;
-  top: 28px;
+  top: 108px;
   width: 224px;
 }
 

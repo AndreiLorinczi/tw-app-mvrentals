@@ -1,4 +1,5 @@
 import React from "react";
+import Group47 from "../Group47";
 import Group37 from "../Group37";
 import Group372 from "../Group372";
 import "./REGISTER.css";
@@ -15,6 +16,7 @@ function REGISTER(props) {
     confrimPassword,
     confrimYourPassword,
     place,
+    group47Props,
     group37Props,
     group372Props,
   } = props;
@@ -22,16 +24,10 @@ function REGISTER(props) {
   return (
     <div className="container-center-horizontal">
       <div className="register screen">
-        <div className="overlap-group2-1">
-          <div className="group-48-1">
-            <div className="group-47-1">
-              <div className="overlap-group-6">
-                <div className="ellipse-1-1"></div>
-                <img className="play-button-1-1" src="/img/play-button-1@2x.svg" />
-              </div>
-            </div>
-          </div>
+        <div className="overlap-group3-1">
+          <div className="group-48-1"></div>
           <img className="logo-3" src={logo} />
+          <Group47 className={group47Props.className} />
         </div>
         <div className="group-44">
           <div className="group-34-1">
@@ -52,7 +48,7 @@ function REGISTER(props) {
             <img className="user-1-1" src="/img/user-1@2x.svg" />
           </div>
           <div className="group">
-            <div className="flex-row-5">
+            <div className="flex-row-6">
               <div className="flex-col-6">
                 <div className="password-1 poppins-medium-white-13px">{password}</div>
                 <div className="group-35-1">
@@ -65,7 +61,7 @@ function REGISTER(props) {
             <div className="rectangle-9-1"></div>
           </div>
           <div className="group">
-            <div className="flex-row-6">
+            <div className="flex-row-7">
               <div className="flex-col-7">
                 <div className="password-1 poppins-medium-white-13px">{confrimPassword}</div>
                 <div className="group-35-2">
@@ -77,7 +73,7 @@ function REGISTER(props) {
             </div>
             <div className="rectangle-9-2"></div>
           </div>
-          <div className="overlap-group-7">
+          <div className="overlap-group-5">
             <div className="place-2 poppins-medium-white-17px">{place}</div>
           </div>
         </div>

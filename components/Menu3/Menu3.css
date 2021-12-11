@@ -4,11 +4,11 @@
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
-  left: 0;
+  left: 99px;
   min-height: 902px;
   padding: 20px 29px;
   position: absolute;
-  top: 8px;
+  top: 88px;
   width: 287px;
 }
 
@@ -19,6 +19,8 @@
 }
 
 .menu-4.menu-5 {
+  background-image: unset;
+  left: 0;
   top: 19px;
 }
 

@@ -39,7 +39,7 @@ function PROFILE(props) {
   return (
     <div className="container-center-horizontal">
       <div className="profile-4 screen">
-        <div className="overlap-group6-1">
+        <div className="overlap-group7-1">
           <Menu3
             logo={menuProps.logo}
             group286Props={menuProps.group286Props}
@@ -53,17 +53,17 @@ function PROFILE(props) {
           <div className="rectangle-112"></div>
           <User />
           <img className="upload" src="/img/upload@2x.svg" />
-          <div className="overlap-group1-5">
+          <div className="overlap-group1-6">
             <div className="save poppins-medium-white-25px">{save}</div>
           </div>
           <div className="overlap-group2-3" style={{ backgroundImage: `url(${overlapGroup2})` }}>
             <div className="total-watch-time poppins-light-quick-silver-20px">{totalWatchTime}</div>
-            <div className="overlap-group-9">
+            <div className="overlap-group-7">
               <div className="number poppins-medium-chateau-green-35px">{number}</div>
               <div className="h">{h}</div>
             </div>
           </div>
-          <div className="overlap-group3-1" style={{ backgroundImage: `url(${overlapGroup3})` }}>
+          <div className="overlap-group3-2" style={{ backgroundImage: `url(${overlapGroup3})` }}>
             <div className="total-reviews poppins-light-quick-silver-20px">{totalReviews}</div>
             <div className="number-1 poppins-medium-chateau-green-35px">{number2}</div>
           </div>

@@ -2,62 +2,25 @@
   align-items: flex-start;
   background-color: var(--shark);
   display: flex;
-  width: 1440px;
+  width: 1920px;
 }
 
-.overlap-group1-3 {
+.overlap-group2-1 {
   background-position: 50% 50%;
   background-size: cover;
-  height: 900px;
+  height: 1080px;
   position: relative;
-  width: 862px;
+  width: 1178px;
 }
 
 .group-48 {
-  align-items: center;
   background-image: url(/static/img/rectangle-12@1x.svg);
   background-size: 100% 100%;
-  display: flex;
-  height: 900px;
-  left: 0;
-  min-width: 862px;
-  padding: 0 391px;
-  position: absolute;
-  top: 0;
-}
-
-.group-47 {
-  align-items: center;
-  background-color: var(--white-4);
-  border-radius: 40px;
-  display: flex;
-  height: 80px;
-  min-width: 80px;
-  padding: 0 17px;
-}
-
-.overlap-group-3 {
-  height: 46px;
-  position: relative;
-  width: 46px;
-}
-
-.ellipse-1 {
-  background-color: var(--jaguar);
-  border-radius: 13.47px/13.76px;
-  height: 28px;
-  left: 11px;
-  position: absolute;
-  top: 10px;
-  width: 27px;
-}
-
-.play-button-1 {
-  height: 46px;
+  height: 1080px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 46px;
+  width: 1178px;
 }
 
 .logo-2 {
@@ -72,8 +35,8 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-left: 75px;
-  margin-top: 132px;
+  margin-left: 119px;
+  margin-top: 223px;
   min-height: 633px;
   width: 433px;
 }
@@ -150,7 +113,7 @@
   width: 433px;
 }
 
-.flex-row-2 {
+.flex-row-3 {
   align-items: flex-end;
   display: flex;
   height: 55px;
@@ -236,7 +199,7 @@
   min-width: 108px;
 }
 
-.overlap-group-4 {
+.overlap-group-3 {
   align-items: flex-end;
   background-color: var(--chateau-green);
   border-radius: 32px;

@@ -44,24 +44,24 @@ function UPCOMING(props) {
   return (
     <div className="container-center-horizontal">
       <div className="upcoming-2 screen">
-        <div className="overlap-group2-2">
-          <div className="overlap-group-8">
+        <div className="overlap-group1-5">
+          <div className="overlap-group-6">
             <Menu />
             <Home />
             <img className="union-5" src="/img/union-2@1x.svg" />
-            <div className="group-296-2">
+            <div className="group-296">
               <img className="clock-2" src={union} />
               <div className="upcoming-3 poppins-light-chateau-green-20px">{upcoming}</div>
             </div>
           </div>
           <img className="logo-4" src={logo} />
-          <div className="group-292-2">
+          <div className="panel2">
             <div className="group-275-2">
               <div className="arriving-this-year dmsans-bold-white-36px-2">
                 <span className="span-3 dmsans-bold-white-36px">{spanText}</span>
                 <span className="span-3 dmsans-bold-chateau-green-36px">{spanText2}</span>
               </div>
-              <div className="flex-row-7">
+              <div className="flex-row-8">
                 <div className="flex-col-8">
                   <img className="rectangle-2" src={rectangle} />
                   <div className="name-1-2 dmsans-bold-white-24px">{name1}</div>
@@ -90,12 +90,12 @@ function UPCOMING(props) {
             </div>
             <Group261 className={group261Props.className} />
           </div>
-          <div className="group-277-3">
+          <div className="panel1">
             <div className="premieres-this-month dmsans-bold-white-36px-2">
               <span className="span-3 dmsans-bold-white-36px">{spanText3}</span>
               <span className="span-3 dmsans-bold-chateau-green-36px">{spanText4}</span>
             </div>
-            <div className="flex-row-8">
+            <div className="flex-row-9">
               <div className="flex-col-8">
                 <img className="rectangle-2" src={rectangle7} />
                 <div className="name-1-2 dmsans-bold-white-24px">{name12}</div>
@@ -121,8 +121,8 @@ function UPCOMING(props) {
                 <div className="name-6-2 dmsans-bold-white-24px">{name62}</div>
               </div>
             </div>
+            <Group261 className={group2612Props.className} />
           </div>
-          <Group261 className={group2612Props.className} />
         </div>
       </div>
     </div>

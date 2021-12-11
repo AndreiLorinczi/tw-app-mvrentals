@@ -6,7 +6,7 @@ function IconlyBulkArrowLeftCircle(props) {
 
   return (
     <div className={`iconly-bulk-arrow-left-circle ${className || ""}`}>
-      <img className="iconly-bulk-arrow-left-circle-1" src="/img/iconly-bulk-arrow---left-circle-2@2x.svg" />
+      <img className="iconly-bulk-arrow-left-circle-1" src="/img/iconly-bulk-arrow---left-circle@2x.svg" />
     </div>
   );
 }

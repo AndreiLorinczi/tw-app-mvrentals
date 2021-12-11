@@ -69,7 +69,7 @@ const hOMEData = {
     name5: "Name 5",
     rectangle6: "/img/rectangle@2x.png",
     name6: "Name 6",
-    group294: "/img/d655ftf19-r5-12-2000x390px-lava-dymc-rom-r1-master-rev-1--1--1@1x.png",
+    banners: "/img/d655ftf19-r5-12-2000x390px-lava-dymc-rom-r1-master-rev-1--1--1@1x.png",
     iconlyBulkArrowLeftCircleProps: iconlyBulkArrowLeftCircle2Data,
     searchBoxProps: searchBoxData,
 };
@@ -110,8 +110,8 @@ const dropdownListData = {
     dropDownListProps: dropDownListData,
 };
 
-const group2962Data = {
-    className: "group-296",
+const cinema2Data = {
+    className: "cinema-1",
 };
 
 const group2612Data = {
@@ -145,12 +145,12 @@ const dISCOVERData = {
     dropDownProps: dropDownData,
     buttonProps: buttonData,
     dropdownListProps: dropdownListData,
-    buttonProps2: group2962Data,
+    buttonProps2: cinema2Data,
     searchBoxProps4: group2612Data,
 };
 
 const lOGINData = {
-    overlapGroup1: "/img/rectangle-11@1x.png",
+    overlapGroup2: "/img/rectangle-11@1x.png",
     logo: "/img/logo-1@4x.png",
     signIn: "Sign in",
     ifYouDontHaveAnAccount: "If you don’t have an account",
@@ -162,6 +162,10 @@ const lOGINData = {
     forgotPassword: "Forgot Password ?",
     login: "Login",
     orContinueWith: "or continue with",
+};
+
+const group472Data = {
+    className: "group-49",
 };
 
 const group372Data = {
@@ -184,6 +188,7 @@ const rEGISTERData = {
     confrimPassword: "Confrim Password",
     confrimYourPassword: "Confrim your Password",
     place: "Register",
+    group47Props: group472Data,
     group37Props: group372Data,
     group372Props: group3722Data,
 };
@@ -290,7 +295,7 @@ const group2854Data = {
 };
 
 const menu32Data = {
-    logo: "/img/logo@4x.png",
+    logo: "/img/menu@1x.svg",
     className: "menu-5",
     group286Props: group2865Data,
     group285Props: group2854Data,
@@ -304,8 +309,8 @@ const user2Data = {
     className: "user-5",
 };
 
-const group2963Data = {
-    className: "group-292-1",
+const cinema3Data = {
+    className: "cinema-2",
 };
 
 const aDMINData = {
@@ -324,7 +329,7 @@ const aDMINData = {
     menuProps: menu32Data,
     homeProps: home3Data,
     userProps: user2Data,
-    group296Props: group2963Data,
+    cinemaProps: cinema3Data,
 };
 
 const group2855Data = {
@@ -363,13 +368,6 @@ const tICKETSData = {
     spanText2: "trailer",
     numeFilm: "Nume film",
     upcoming: "Upcoming",
-    year: "Year",
-    number: "2021",
-    text5: "16:30",
-    text6: "14:00",
-    text2: "18:30",
-    text3: "21:00",
-    text4: "23:00",
     a: "A",
     b: "B",
     c: "C",
@@ -384,13 +382,20 @@ const tICKETSData = {
     selected: "Selected",
     confirm17: "Confirm 17$",
     iconlyBoldScan: "/img/iconly-bold-scan@21.329999923706055x.png",
-    text7: "2:31:30",
-    length: "Length",
-    language: "Language",
-    surname: "English",
     spanText3: "Read",
     spanText4: <> <br /></>,
     spanText5: "reviews",
+    year: "Year",
+    number: "2021",
+    text2: "2:31:30",
+    length: "Length",
+    language: "Language",
+    surname: "English",
+    text6: "16:30",
+    text7: "14:00",
+    text3: "18:30",
+    text4: "21:00",
+    text5: "23:00",
     wed: "Wed",
     number2: "21",
     fri: "Fri",

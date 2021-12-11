@@ -2,13 +2,13 @@
   align-items: center;
   display: flex;
   height: 100px;
-  left: 1294px;
+  left: 1393px;
   min-width: 244px;
   position: absolute;
-  top: 109px;
+  top: 189px;
 }
 
-.overlap-group-10 {
+.overlap-group-8 {
   align-items: flex-start;
   background-image: url(/static/img/profile-photo@2x.png);
   background-position: 50% 50%;
@@ -32,6 +32,7 @@
 }
 
 .user-4.user-5 {
+  left: 1294px;
   top: 120px;
 }
 

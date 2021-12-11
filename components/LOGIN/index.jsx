@@ -1,11 +1,12 @@
 import React from "react";
+import Group47 from "../Group47";
 import Group37 from "../Group37";
 import Facebook from "../Facebook";
 import "./LOGIN.css";
 
 function LOGIN(props) {
   const {
-    overlapGroup1,
+    overlapGroup2,
     logo,
     signIn,
     ifYouDontHaveAnAccount,
@@ -22,16 +23,10 @@ function LOGIN(props) {
   return (
     <div className="container-center-horizontal">
       <div className="login screen">
-        <div className="overlap-group1-3" style={{ backgroundImage: `url(${overlapGroup1})` }}>
-          <div className="group-48">
-            <div className="group-47">
-              <div className="overlap-group-3">
-                <div className="ellipse-1"></div>
-                <img className="play-button-1" src="/img/play-button-1@2x.svg" />
-              </div>
-            </div>
-          </div>
+        <div className="overlap-group2-1" style={{ backgroundImage: `url(${overlapGroup2})` }}>
+          <div className="group-48"></div>
           <img className="logo-2" src={logo} />
+          <Group47 />
         </div>
         <div className="group-43">
           <div className="group-41">
@@ -51,7 +46,7 @@ function LOGIN(props) {
               <div className="group-38">
                 <Group37 />
                 <div className="group-36">
-                  <div className="flex-row-2">
+                  <div className="flex-row-3">
                     <div className="flex-col-5">
                       <div className="password poppins-medium-white-13px">{password}</div>
                       <div className="group-35">
@@ -69,7 +64,7 @@ function LOGIN(props) {
                 <div className="rememebr-me">{rememebrMe}</div>
                 <div className="forgot-password">{forgotPassword}</div>
               </div>
-              <div className="overlap-group-4">
+              <div className="overlap-group-3">
                 <div className="login-1 poppins-medium-white-17px">{login}</div>
               </div>
             </div>

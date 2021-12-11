@@ -23,12 +23,16 @@
   width: 60px;
 }
 
-.home-5.home-7,
-.home-5.home-11 {
-  top: 179px;
+.home-5.home-7 {
+  left: 171px;
+  top: 259px;
 }
 
 .home-5.home-9 {
   top: 190px;
+}
+
+.home-5.home-11 {
+  top: 179px;
 }
 

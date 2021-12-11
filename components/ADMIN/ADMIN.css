@@ -6,18 +6,21 @@
   overflow-x: hidden;
 }
 
-.overlap-group6-2 {
-  height: 930px;
-  margin-top: -11px;
+.overlap-group6-1 {
+  background-image: url(/static/img/bg@1x.svg);
+  background-size: 100% 100%;
+  height: 1080px;
+  margin-left: -99px;
+  margin-top: -63px;
   position: relative;
-  width: 1725px;
+  width: 1920px;
 }
 
 .overlap-group2-4 {
   height: 930px;
-  left: 0;
+  left: 99px;
   position: absolute;
-  top: 0;
+  top: 52px;
   width: 1721px;
 }
 
@@ -29,7 +32,7 @@
   width: 1701px;
 }
 
-.overlap-group-11 {
+.overlap-group-9 {
   align-items: center;
   background-color: var(--chateau-green);
   border-radius: 39px;
@@ -139,11 +142,11 @@
 }
 
 .admin-1 {
-  left: 1470px;
+  left: 1569px;
   letter-spacing: 0;
   position: absolute;
   text-align: right;
-  top: 179px;
+  top: 231px;
 }
 
 .manage-movies {
@@ -151,23 +154,23 @@
   font-family: var(--font-family-poppins);
   font-size: 30px;
   font-weight: 300;
-  left: 330px;
+  left: 429px;
   letter-spacing: 0;
   position: absolute;
-  top: 37px;
+  top: 89px;
 }
 
-.overlap-group3-2 {
+.overlap-group3-3 {
   align-items: center;
   background-color: var(--chateau-green);
   border-radius: 39px;
   display: flex;
   height: 50px;
-  left: 1168px;
+  left: 1267px;
   min-width: 524px;
   padding: 0 118px;
   position: absolute;
-  top: 615px;
+  top: 667px;
 }
 
 .postponedelay-movie {
@@ -176,14 +179,14 @@
   min-width: 287px;
 }
 
-.save-1 {
+.btn1 {
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 1168px;
+  left: 1267px;
   min-height: 146px;
   position: absolute;
-  top: 290px;
+  top: 342px;
   width: 528px;
 }
 
@@ -217,49 +220,49 @@
   border-radius: 39px;
   display: flex;
   height: 50px;
-  left: 1168px;
+  left: 1267px;
   min-width: 524px;
   padding: 4px 168px;
   position: absolute;
-  top: 501px;
+  top: 553px;
 }
 
-.rectangle-118 {
+.form {
   background-color: var(--shark);
   border-radius: 25px;
   height: 675px;
-  left: 330px;
+  left: 429px;
   position: absolute;
-  top: 147px;
+  top: 199px;
   width: 747px;
 }
 
 .placeholder-for-form {
-  left: 403px;
+  left: 502px;
   letter-spacing: 0;
   position: absolute;
-  top: 220px;
+  top: 272px;
 }
 
 .removing-via-searching-in-db {
-  left: 403px;
+  left: 502px;
   letter-spacing: 0;
   position: absolute;
-  top: 402px;
+  top: 454px;
 }
 
 .placeholder-for-form-1 {
-  left: 403px;
+  left: 502px;
   letter-spacing: 0;
   position: absolute;
-  top: 572px;
+  top: 624px;
 }
 
-.iconly-bulk-arrow-left-circle-2 {
+.backarrow {
   height: 32px;
-  left: 1168px;
+  left: 1267px;
   position: absolute;
-  top: 37px;
+  top: 89px;
   width: 32px;
 }
 
