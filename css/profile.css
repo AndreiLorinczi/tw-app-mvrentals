@@ -3,19 +3,13 @@
 .profile {
   align-items: flex-start;
   display: flex;
-  height: 919px;
   min-width: 1721px;
-  overflow-x: hidden;
 }
 
-.profile .overlap-group7 {
-  background-image: url(../img/bg@1x.svg);
-  background-size: 100% 100%;
-  height: 1080px;
-  margin-left: -99px;
-  margin-top: -80px;
+.profile .overlap-group6 {
+  height: 919px;
   position: relative;
-  width: 1920px;
+  width: 1721px;
 }
 
 .profile .menu {
@@ -24,11 +18,11 @@
   background-size: 100% 100%;
   display: flex;
   flex-direction: column;
-  left: 99px;
+  left: 0;
   min-height: 902px;
   padding: 20px 29px;
   position: absolute;
-  top: 88px;
+  top: 8px;
   width: 287px;
 }
 
@@ -82,9 +76,9 @@
 
 .profile .union {
   height: 919px;
-  left: 119px;
+  left: 20px;
   position: absolute;
-  top: 80px;
+  top: 0;
   width: 1701px;
 }
 
@@ -92,10 +86,10 @@
   align-items: flex-start;
   display: flex;
   height: 35px;
-  left: 171px;
+  left: 72px;
   min-width: 113px;
   position: absolute;
-  top: 259px;
+  top: 179px;
 }
 
 .profile .home-1 {
@@ -114,26 +108,26 @@
 }
 
 .profile .upcoming {
-  left: 222px;
+  left: 123px;
   letter-spacing: 0;
   position: absolute;
-  top: 329px;
+  top: 249px;
   width: 103px;
 }
 
 .profile .clock {
   height: 32px;
-  left: 170px;
+  left: 71px;
   position: absolute;
-  top: 328px;
+  top: 248px;
   width: 32px;
 }
 
 .profile .union-1 {
   height: 30px;
-  left: 170px;
+  left: 71px;
   position: absolute;
-  top: 531px;
+  top: 451px;
   width: 112px;
 }
 
@@ -141,9 +135,9 @@
   background-color: var(--shark);
   border-radius: 30px;
   height: 919px;
-  left: 1247px;
+  left: 1148px;
   position: absolute;
-  top: 80px;
+  top: 0;
   width: 573px;
 }
 
@@ -151,10 +145,10 @@
   align-items: center;
   display: flex;
   height: 100px;
-  left: 1393px;
+  left: 1294px;
   min-width: 244px;
   position: absolute;
-  top: 189px;
+  top: 109px;
 }
 
 .profile .overlap-group {
@@ -182,9 +176,9 @@
 
 .profile .upload {
   height: 20px;
-  left: 1433px;
+  left: 1334px;
   position: absolute;
-  top: 229px;
+  top: 149px;
   width: 20px;
 }
 
@@ -194,11 +188,11 @@
   border-radius: 39px;
   display: flex;
   height: 50px;
-  left: 1274px;
+  left: 1175px;
   min-width: 524px;
   padding: 0 229px;
   position: absolute;
-  top: 930px;
+  top: 850px;
 }
 
 .profile .save {
@@ -215,11 +209,11 @@
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  left: 489px;
+  left: 390px;
   min-height: 200px;
   padding: 47px 0;
   position: absolute;
-  top: 314px;
+  top: 234px;
   width: 300px;
 }
 
@@ -247,7 +241,7 @@
 
 .profile .h {
   color: var(--chateau-green);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: 15px;
   font-weight: 500;
   left: 28px;
@@ -264,11 +258,11 @@
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  left: 837px;
+  left: 738px;
   min-height: 200px;
   padding: 50px 82px;
   position: absolute;
-  top: 314px;
+  top: 234px;
   width: 300px;
 }
 
@@ -295,11 +289,11 @@
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  left: 837px;
+  left: 738px;
   min-height: 200px;
   padding: 56px 76px;
   position: absolute;
-  top: 565px;
+  top: 485px;
   width: 300px;
 }
 
@@ -326,11 +320,11 @@
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  left: 490px;
+  left: 391px;
   min-height: 200px;
   padding: 56px 65px;
   position: absolute;
-  top: 565px;
+  top: 485px;
   width: 300px;
 }
 
@@ -353,10 +347,10 @@
   align-items: flex-start;
   display: flex;
   height: 223px;
-  left: 1358px;
+  left: 1259px;
   min-width: 359px;
   position: absolute;
-  top: 428px;
+  top: 348px;
 }
 
 .profile .flex-col {
@@ -486,8 +480,8 @@
 
 .profile .group-33-1 {
   height: 20px;
-  left: 1493px;
+  left: 1394px;
   position: absolute;
-  top: 578px;
+  top: 498px;
   width: 20px;
 }

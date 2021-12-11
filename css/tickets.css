@@ -3,26 +3,21 @@
 .tickets {
   align-items: flex-start;
   display: flex;
-  height: 919px;
   min-width: 1721px;
   overflow-x: hidden;
 }
 
 .tickets .overlap-group9 {
-  background-image: url(../img/bg@1x.svg);
-  background-size: 100% 100%;
-  height: 1080px;
-  margin-left: -99px;
-  margin-top: -80px;
+  height: 919px;
   position: relative;
-  width: 1920px;
+  width: 1727px;
 }
 
 .tickets .overlap-group1 {
   height: 924px;
-  left: 99px;
+  left: 0;
   position: absolute;
-  top: 77px;
+  top: -3px;
   width: 1722px;
 }
 
@@ -151,7 +146,7 @@
 
 .tickets .watch-trailer {
   color: transparent;
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-xxl);
   font-weight: 700;
   left: 920px;
@@ -236,9 +231,9 @@
 
 .tickets .backbutton {
   height: 32px;
-  left: 430px;
+  left: 331px;
   position: absolute;
-  top: 108px;
+  top: 28px;
   width: 32px;
 }
 
@@ -246,11 +241,11 @@
   align-items: center;
   display: flex;
   height: 173px;
-  left: 908px;
+  left: 809px;
   min-width: 205px;
   padding: 22px 0;
   position: absolute;
-  top: 674px;
+  top: 594px;
 }
 
 .tickets .rectangle-117 {
@@ -271,9 +266,9 @@
 
 .tickets .imdb {
   height: 27px;
-  left: 783px;
+  left: 684px;
   position: absolute;
-  top: 592px;
+  top: 512px;
   width: 71px;
 }
 
@@ -281,10 +276,10 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 1390px;
+  left: 1291px;
   min-height: 307px;
   position: absolute;
-  top: 430px;
+  top: 350px;
   width: 303px;
 }
 
@@ -480,10 +475,10 @@
   align-items: flex-start;
   display: flex;
   height: 56px;
-  left: 1398px;
+  left: 1299px;
   min-width: 272px;
   position: absolute;
-  top: 782px;
+  top: 702px;
 }
 
 .tickets .overlap-group-1 {
@@ -498,7 +493,7 @@
 
 .tickets .confirm-17 {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-s);
   font-weight: 700;
   letter-spacing: -0.24px;
@@ -528,23 +523,23 @@
   background-color: var(--white-5);
   filter: blur(2px);;
   height: 1px;
-  left: 386px;
+  left: 287px;
   position: absolute;
-  top: 673px;
+  top: 593px;
   transform: rotate(-180deg);
   width: 861px;
 }
 
 .tickets .read-reviews {
   color: transparent;
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-xxl);
   font-weight: 700;
-  left: 760px;
+  left: 661px;
   letter-spacing: -0.24px;
   position: absolute;
   text-align: center;
-  top: 881px;
+  top: 801px;
 }
 
 .tickets .span1-1 {
@@ -561,11 +556,11 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  left: 798px;
+  left: 699px;
   min-height: 129px;
   padding: 0 0.0px;
   position: absolute;
-  top: 698px;
+  top: 618px;
   width: 72px;
 }
 
@@ -596,10 +591,10 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 461px;
+  left: 362px;
   min-height: 133px;
   position: absolute;
-  top: 696px;
+  top: 616px;
   width: 90px;
 }
 
@@ -640,11 +635,11 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  left: 606px;
+  left: 507px;
   min-height: 138px;
   padding: 0 0.0px;
   position: absolute;
-  top: 694px;
+  top: 614px;
   width: 138px;
 }
 
@@ -685,10 +680,10 @@
   align-items: flex-end;
   display: flex;
   height: 49px;
-  left: 1346px;
+  left: 1247px;
   min-width: 385px;
   position: absolute;
-  top: 267px;
+  top: 187px;
 }
 
 .tickets .overlap-group4 {
@@ -724,7 +719,7 @@
 
 .tickets .text-3 {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-l);
   font-weight: 700;
   letter-spacing: -0.24px;
@@ -764,13 +759,13 @@
   align-items: flex-start;
   display: flex;
   height: 54px;
-  left: 1346px;
+  left: 1247px;
   min-width: 375px;
   position: absolute;
-  top: 176px;
+  top: 96px;
 }
 
-.tickets .overlap-group6 {
+.tickets .overlap-group7 {
   height: 50px;
   position: relative;
   width: 120px;
@@ -937,7 +932,7 @@
   width: 19px;
 }
 
-.tickets .overlap-group7 {
+.tickets .overlap-group6 {
   height: 50px;
   margin-left: 1px;
   position: relative;
@@ -986,9 +981,9 @@
 
 .tickets .overlap-group8 {
   height: 67px;
-  left: 1351px;
+  left: 1252px;
   position: absolute;
-  top: 338px;
+  top: 258px;
   width: 365px;
 }
 
@@ -1023,8 +1018,8 @@
 
 .tickets .logo {
   height: 48px;
-  left: 133px;
+  left: 34px;
   position: absolute;
-  top: 108px;
+  top: 28px;
   width: 224px;
 }

@@ -22,6 +22,10 @@
  
   --font-family-dm_sans: "DM Sans", Helvetica;
   --font-family-poppins: "Poppins", Helvetica;
+  --font-family-poppins-bold: "Poppins-Bold", Helvetica;
+  --font-family-poppins-medium: "Poppins-Medium", Helvetica;
+  --font-family-poppins-regular: "Poppins-Regular", Helvetica;
+  --font-family-poppins-semibold: "Poppins-SemiBold", Helvetica;
   --font-family-product_sans-bold: "Product Sans-Bold", Helvetica;
   --font-family-product_sans-regular: "Product Sans-Regular", Helvetica;
 }
@@ -49,9 +53,9 @@
   font-weight: 300;
 }
 
-.poppins-normal-white-16px {
+.poppins-regular-normal-white-16px {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-regular);
   font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 400;
@@ -59,7 +63,7 @@
 
 .poppins-medium-white-25px {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 500;
@@ -67,15 +71,15 @@
 
 .poppins-bold-white-11px {
   color: var(--white-2);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 700;
 }
 
-.poppins-normal-white-20px {
+.poppins-regular-normal-white-20px {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-regular);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
@@ -83,7 +87,7 @@
 
 .poppins-bold-white-11px-2 {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-bold);
   font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 700;
@@ -91,7 +95,7 @@
 
 .poppins-medium-black-20px {
   color: var(--black);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 500;
@@ -99,7 +103,7 @@
 
 .poppins-medium-white-13px {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: 13px;
   font-style: normal;
   font-weight: 500;
@@ -131,15 +135,15 @@
 
 .poppins-medium-chateau-green-35px {
   color: var(--chateau-green);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: 35px;
   font-style: normal;
   font-weight: 500;
 }
 
-.poppins-normal-white-17px {
+.poppins-regular-normal-white-17px {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-regular);
   font-size: var(--font-size-s);
   font-style: normal;
   font-weight: 400;
@@ -168,9 +172,9 @@
   font-weight: 700;
 }
 
-.poppins-normal-white-11px {
+.poppins-regular-normal-white-11px {
   color: var(--white-2);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-regular);
   font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;

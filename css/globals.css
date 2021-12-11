@@ -1,18 +1,6 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,300,500,600|DM+Sans:700");
-@font-face {
-  font-family: "Product Sans-Regular";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/Product Sans Regular.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Product Sans-Bold";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/product-sans-bold.ttf") format("truetype");
-}
+@import url("https://fonts.googleapis.com/css?family=Poppins:300|DM+Sans:700");
 
 .screen a {
   display: contents;

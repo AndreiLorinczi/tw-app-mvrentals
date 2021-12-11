@@ -4,34 +4,40 @@
   align-items: flex-start;
   background-color: var(--shark);
   display: flex;
-  height: 1080px;
-  overflow: hidden;
-  width: 1920px;
+  height: 902px;
+  width: 1701px;
 }
 
-.register .overlap-group3 {
-  background-image: url(../img/rectangle-12-1@1x.svg);
-  background-size: 100% 100%;
-  height: 1082px;
+.register .overlap-group2 {
+  height: 909px;
+  margin-top: -7px;
   position: relative;
-  width: 1182px;
+  width: 982px;
+}
+
+.register .rectangle-12 {
+  height: 902px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 982px;
 }
 
 .register .group-48 {
   background-image: url(../img/rectangle-12-2@1x.svg);
   background-size: 100% 100%;
-  height: 1082px;
+  height: 909px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 1182px;
+  width: 982px;
 }
 
 .register .logo {
   height: 48px;
   left: 30px;
   position: absolute;
-  top: 28px;
+  top: 35px;
   width: 224px;
 }
 
@@ -41,34 +47,15 @@
   border-radius: 40px;
   display: flex;
   height: 80px;
-  left: 551px;
+  left: 451px;
   min-width: 80px;
   padding: 0 17px;
   position: absolute;
-  top: 501px;
+  top: 397px;
 }
 
-.register .overlap-group2 {
+.register .group-45 {
   height: 46px;
-  position: relative;
-  width: 46px;
-}
-
-.register .ellipse-1 {
-  background-color: #050214;
-  border-radius: 13.47px/13.76px;
-  height: 28px;
-  left: 11px;
-  position: absolute;
-  top: 10px;
-  width: 27px;
-}
-
-.register .play-button-1 {
-  height: 46px;
-  left: 0;
-  position: absolute;
-  top: 0;
   width: 46px;
 }
 
@@ -76,8 +63,8 @@
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-left: 159px;
-  margin-top: 208px;
+  margin-left: 132px;
+  margin-top: 137px;
   min-height: 666px;
   width: 430px;
 }
@@ -92,7 +79,7 @@
 
 .register .sign-up {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: 30px;
   font-weight: 500;
   letter-spacing: 0;
@@ -116,7 +103,7 @@
 
 .register .you-can-login-here {
   color: transparent;
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-regular);
   font-size: var(--font-size-xs);
   letter-spacing: 0;
   margin-top: 6px;
@@ -126,6 +113,7 @@
 
 .register .span1 {
   color: var(--chateau-green);
+  font-family: var(--font-family-poppins-semibold);
   font-weight: 600;
 }
 
@@ -342,7 +330,7 @@
 
 .register .place {
   color: var(--white);
-  font-family: var(--font-family-poppins);
+  font-family: var(--font-family-poppins-medium);
   font-size: var(--font-size-s);
   font-weight: 500;
   letter-spacing: 0;
