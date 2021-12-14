@@ -7,6 +7,7 @@
     <meta name="og:type" content="website" />
     <meta name="twitter:card" content="photo" />
     <link rel="stylesheet" type="text/css" href="css/register.css" />
+    <link rel="stylesheet" href="css/form.css" />
     <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
     <link rel="stylesheet" type="text/css" href="css/globals.css" />
   </head>
@@ -28,25 +29,30 @@
                 If you already have an account ..
               </p>
               <p class="you-can-login-here">
-                <span class="poppins-regular-normal-white-16px">You can </span><span class="span1">Login here !</span>
+                <span class="poppins-regular-normal-white-16px">You can </span><span class="span1"><a href="login.html">Login here</a></span>
               </p>
             </div>
           </div>
+
+          <form method="post" action="process.php" class="form">
           <div class="group-37">
             <div class="email poppins-medium-white-13px">Email</div>
             <div class="flex-row">
               <img class="message-1" src="img/message-1@2x.svg" />
-              <div class="enter-your-email-address poppins-regular-normal-white-16px">Enter your email address</div>
+              <input type="email" name="email" placeholder="Enter your email address" required="required" >
+              <div class="enter-your-email-address poppins-regular-normal-white-16px"></div>
             </div>
             <div class="rectangle-8"></div>
           </div>
           <div class="overlap-group1">
             <div class="group-40">
               <div class="username poppins-medium-white-13px">Username</div>
-              <div class="enter-your-user-name poppins-regular-normal-white-16px">Enter your User name</div>
+              <img class="user-1" src="img/user-1@2x.svg" />
+              
+              <div class="enter-your-user-name poppins-regular-normal-white-16px"></div>
+              <input type="text" name="username" placeholder="Enter your username" required="required">
               <div class="rectangle-8"></div>
             </div>
-            <img class="user-1" src="img/user-1@2x.svg" />
           </div>
           <div class="group">
             <div class="flex-row-1">
@@ -54,7 +60,8 @@
                 <div class="password poppins-medium-white-13px">Password</div>
                 <div class="group-35">
                   <img class="padlock-1" src="img/padlock-1-1@2x.svg" />
-                  <div class="enter-your-password poppins-regular-normal-white-16px">Enter your Password</div>
+                  <input type="password" name="password" placeholder="Enter your password" required="required">
+                  <div class="enter-your-password poppins-regular-normal-white-16px"></div>
                 </div>
               </div>
               <img class="invisible-1" src="img/invisible-1-1@2x.svg" />
@@ -67,14 +74,20 @@
                 <div class="password poppins-medium-white-13px">Confrim Password</div>
                 <div class="group-35-1">
                   <img class="padlock-1-1" src="img/padlock-1-1@2x.svg" />
-                  <div class="confrim-your-password poppins-regular-normal-white-16px">Confrim your Password</div>
+                  <input type="password" name="cpassword" placeholder="Enter your password again" required="required"> 
+                  <div class="confrim-your-password poppins-regular-normal-white-16px"></div>
                 </div>
               </div>
               <img class="invisible-1-1" src="img/invisible-1-1@2x.svg" />
             </div>
             <div class="rectangle-9-1"></div>
           </div>
-          <div class="overlap-group"><div class="place">Register</div></div>
+          <div class="overlap-group"><div class="place">
+            <input type="submit" name="save" value="Sign-up" class="submit-btn">
+            
+          </div></div>
+        
+        </form>
         </div>
       </div>
     </div>

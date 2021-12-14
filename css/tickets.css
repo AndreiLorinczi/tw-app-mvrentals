@@ -1,5 +1,11 @@
 /* screen - tickets */
 
+body{
+  background-color: #121212;
+}
+a{
+  color: white
+}
 .tickets {
   align-items: flex-start;
   display: flex;
@@ -154,6 +160,8 @@
   position: absolute;
   text-align: center;
   top: 596px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
 .tickets .span0 {

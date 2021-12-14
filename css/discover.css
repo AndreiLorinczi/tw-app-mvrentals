@@ -1,5 +1,7 @@
 /* screen - discover */
-
+body{
+  background-color: #121212;
+}
 .discover {
   align-items: flex-start;
   display: flex;

@@ -1,5 +1,7 @@
 /* screen - profile */
-
+body{
+  background-color: #121212;
+}
 .profile {
   align-items: flex-start;
   display: flex;

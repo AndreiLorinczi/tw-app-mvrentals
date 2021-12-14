@@ -13,7 +13,6 @@
   </head>
   <body style="margin: 0; background: #252527">
     <input type="hidden" id="anPageName" name="page" value="login" />
-    <form action="loginProcess.php" method="post" enctype="multipart/form-data">
     <div class="container-center-horizontal">
       <div class="login screen">
         <div class="overlap-group1">
@@ -38,10 +37,11 @@
             <div class="group-40">
               <div class="group-38">
                 <div class="group-37">
+                  <form action="loginProcess.php" method="post" enctype="multipart/form-data">
                   <div class="email poppins-medium-white-13px">Email</div>
                   <div class="flex-row">
                     <img class="message-1" src="img/message-1@2x.svg" />
-                    <input type="email" id="email" name="email" placeholder="Enter your email address" required="required">
+                    <input type="email" name="email" placeholder="Enter your email address" required="required">
                     <div class="enter-your-email-address poppins-regular-normal-white-16px">
                     </div>
                   </div>
@@ -53,7 +53,7 @@
                       <div class="password poppins-medium-white-13px">Password</div>
                       <div class="group-35">
                         <img class="padlock-1" src="img/padlock-1@2x.svg" />
-                        <input type="password" id="email" name="password" placeholder="Enter your password" required="required">
+                        <input type="password" name="password" placeholder="Enter your password" required="required">
                         <div class="enter-your-password poppins-regular-normal-white-16px"></div>
                       </div>
                     </div>
@@ -64,14 +64,15 @@
               </div>
               <div class="group-24">
                 
-                <div class="rememebr-me">                                  </div>
+                <div class="rememebr-me">            </div>
                 <div class="forgot-password">Forgot Password ?</div>
               </div>
               <div class="overlap-group"><div class="login-1">
                 <input type="submit" name="save" value="Sign in" class="submit-btn">
-              </div></div>
+                </div>
             </div>
           </div>
+        </form>
           <div class="or-continue-with">or continue with</div>
           <div class="group-13">
             <div class="facebook">
@@ -85,6 +86,5 @@
         </div>
       </div>
     </div>
-  </form>
   </body>
 </html>

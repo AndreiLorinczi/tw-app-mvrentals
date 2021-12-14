@@ -1,5 +1,8 @@
 /* screen - register */
 
+body{
+  background-color: #121212;
+}
 .register {
   align-items: flex-start;
   background-color: var(--shark);
@@ -337,3 +340,4 @@
   min-height: 26px;
   min-width: 70px;
 }
+

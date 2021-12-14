@@ -1,5 +1,21 @@
 /* screen - home */
 
+input, select, textarea{
+  color: #121212;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+}
+input[type="search"]
+{
+    background: rgba(0, 0, 0, 0);
+    border: none;
+    outline: none;
+    padding-left: 10p;
+
+}
+body{
+  background-color: #121212;
+}
 .home {
   align-items: flex-start;
   display: flex;

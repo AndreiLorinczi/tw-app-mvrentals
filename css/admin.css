@@ -1,5 +1,7 @@
 /* screen - admin */
-
+body{
+  background-color: #121212;
+}
 .admin {
   align-items: flex-start;
   display: flex;

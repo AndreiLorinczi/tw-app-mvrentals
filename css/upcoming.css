@@ -1,5 +1,7 @@
 /* screen - upcoming */
-
+body{
+  background-color: #121212;
+}
 .upcoming {
   align-items: flex-start;
   display: flex;

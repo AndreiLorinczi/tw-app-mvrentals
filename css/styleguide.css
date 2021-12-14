@@ -183,3 +183,9 @@
 .border-2px-wild-sand-2 {
   border: 2px solid var(--wild-sand-2);
 }
+
+input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  content: URL();
+  cursor: pointer;
+ }

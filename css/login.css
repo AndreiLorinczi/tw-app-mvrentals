@@ -1,5 +1,7 @@
 /* screen - login */
-
+body{
+  background-color: #121212;
+}
 .login {
   align-items: flex-start;
   background-color: var(--shark);
@@ -312,6 +314,7 @@
   font-size: var(--font-size-xs);
   font-weight: 500;
   letter-spacing: 0;
+  padding-left: 20px;
   margin-left: 1.0px;
   margin-top: 39px;
   min-height: 24px;
@@ -333,6 +336,7 @@
   justify-content: flex-end;
   min-width: 41px;
   padding: 0.1px 2.2px;
+  padding-left: 30px;
 }
 
 .login .overlap-group-1 {
